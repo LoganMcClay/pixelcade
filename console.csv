@@ -3,6 +3,9 @@
 3do_interactive_player,3do
 3do_interactive_multiplayer,3do
 3ds,nintendo_3ds
+aae,mame
+mame part 2,mame
+mame_part_2,mame
 mame-libretro,mame
 mame_libretro,mame
 mame-mame4all,mame
@@ -25,6 +28,9 @@ mame2003plus,mame
 mame2003,mame
 mame_(vector),mame
 mame_(vertical),mame
+mame2003-plus,mame
+mame0278,mame
+mame0258,mame
 -_arcade_mame,mame
 platforms,console
 displays_menu,console
@@ -156,8 +162,8 @@ nintendo-famicom-disk-system,nintendo_famicom_disk_system
 nintendo super famicom,nintendo_super_famicom
 nintendo-super-famicom,nintendo_super_famicom
 super_famicom,nintendo_super_famicom
-gameandwatch,game_and_watch
-nintendo_game_&_watch,game_&_watch
+gameandwatch,nintendo_game_and_watch
+nintendo_game_&_watch,nintendo_game_and_watch
 nintendo game boy,gb
 nintendo_game_boy,gb
 game_boy_official,gb
@@ -289,5 +295,26 @@ visual_pinball,visualpinball
 vpinball,visualpinball
 xbox,microsoft_xbox
 black,black
-fbneo,mame
+fbneo,mame,fbneo
 megadrive,genesis
+sega_mega_drive,genesis
+sega_naomi_2,sega_naomi
+atari_8-bit,atari_8bit
+philips_cd-i,philips_cdi
+microsoft_msx_turbo-r,microsoft_msx_turbo_r
+casio_pv-1000,casio_pv_1000
+casio_pv-2000,casio_pv_2000
+tiger_game.com,tiger_game_com
+microsoft_msx2+,microsoft_msx2
+wswanc,wonderswancolor
+wswan,wonderswan
+stv,sega_st-v
+atarist,atari_st
+neogeocd,snk_neo_geo_cd
+pcfx,nec_pc_fx
+satellaview,nintendo_satellaview
+sufami,nintendo_sufami_turbo
+supervision,watara_supervision
+gx4000,amstrad_gx4000
+multivision,sega_sg-1000
+amiga600,amiga
